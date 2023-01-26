@@ -1,0 +1,15 @@
+ Resources
+  http://localhost:3000/Alunos
+  http://localhost:3000/status
+
+  Home
+  http://localhost:3000
+
+
+GET /alunos 200 28.953 ms - 383
+GET /alunos/6 200 13.328 ms - 54
+POST /alunos 201 61.335 ms - 50
+PUT /alunos/7 200 15.682 ms - 50
+DELETE /alunos/1 200 31.094 ms - 2
+GET /alunos 200 28.825 ms - 386
+GET /status 200 32.489 ms - 119

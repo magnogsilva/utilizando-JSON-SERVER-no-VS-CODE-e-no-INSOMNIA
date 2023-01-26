@@ -1,0 +1,44 @@
+{
+  "Alunos": [
+    {
+      "id": 2,
+      "nome": "Goku",
+      "série": 4
+    },
+    {
+      "id": 3,
+      "nome": "Mulher Maravilha",
+      "série": 3
+    },
+    {
+      "id": 4,
+      "nome": "She-Ra",
+      "série": 4
+    },
+    {
+      "id": 5,
+      "nome": "Homem de Ferro",
+      "série": 4
+    },
+    {
+      "id": 6,
+      "nome": "Seu Euclides",
+      "série": 4
+    },
+    {
+      "id": 7,
+      "nome": "Horácio",
+      "série": 4
+    }
+  ],
+  "status": [
+    {
+      "série": 3,
+      "situação": "REPROVADO(A)"
+    },
+    {
+      "série": 4,
+      "situação": "APROVADO(A)"
+    }
+  ]
+}
